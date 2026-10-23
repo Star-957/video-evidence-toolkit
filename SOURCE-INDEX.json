@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "scope": "28 original source/build/test/protocol paths; one bounded research-tool source family, not all projects or all research helpers.",
+  "files": [
+    {
+      "name": "package-lock.json",
+      "bytes": 152469,
+      "sha256": "1ea54a00bb1f93e8c2891309590531302b42eea4d32f3f857689e080646cff1a"
+    },
+    {
+      "name": "package.json",
+      "bytes": 895,
+      "sha256": "cf8e4b4e1e20356588019e1639852bdb04ac3262d0c56f5a7ca664450b247736"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/acquire_longform_core_v3.py",
+      "bytes": 45815,
+      "sha256": "6359483634183fcbe24a377cce584582fde42df2e80529e00c14232b60b402ea"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/acquire_longform_policy_v3.py",
+      "bytes": 1226,
+      "sha256": "11a76413999d59d55baa33ca353e7ba6e5d952d6f6f53951b2402505cdd3e8d3"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/acquire_longform_sections_v2.py",
+      "bytes": 43903,
+      "sha256": "8ed00825cb9056e23e7a999b33db4305f0b9dbf7b9b30dbae155701c3e3200b9"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/acquire_longform_sections_v3.py",
+      "bytes": 204,
+      "sha256": "a48af890dd10d67ccd79cf18a700641c8a53262b88e1dd7852d8f263ca4efb04"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/acquire_longform_sections.py",
+      "bytes": 43911,
+      "sha256": "173af5453d217796d0dce99717e38ab548c1aa67cd5e1d748ef4179581a56564"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/ACQUISITION-V3.md",
+      "bytes": 3475,
+      "sha256": "fc1eb15d1d54f1bc3a78b1f98b481ee27cf5b24f77c676af09e3bcbec37bbc03"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/extract_visual_chunk.py",
+      "bytes": 23267,
+      "sha256": "d895d9d185d628ee524a528d4eaf2126c2ebd7cc7dd72b8edde6c743e155ef64"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/global_visual_lattice_v1.py",
+      "bytes": 52141,
+      "sha256": "fb9fe0ca9792ddbb9e8047f6bc1647bd345738de716decfeead05ac842a23484"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/keyframe_segment_full_v1.py",
+      "bytes": 14105,
+      "sha256": "54990a979b2e353436031d6bcf4fc4e7a3e008f6332678f78ae9b4fd15d51b79"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/verify_visual_attempt.py",
+      "bytes": 12307,
+      "sha256": "c4166d1d7da3aa6f67c99d7dd2b994e8486581aa599879c0f2ede1f080355c3f"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/scripts/youtube_inventory.py",
+      "bytes": 9877,
+      "sha256": "2bc8cd588d1d7789c60e4c5e70ec62ed26157200a6739fe816d8a02e9b1e1832"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/tests/longform_contract_cases.py",
+      "bytes": 20633,
+      "sha256": "8780065fb963e9546c34750b0db303e54cc54360c6a90e444b7cbd16ee9a506f"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/tests/test_acquire_longform_sections_v2.py",
+      "bytes": 1416,
+      "sha256": "ffadd4b862a163bf3aa80c468cefb3b473933f017b65e3093d6e2dcbcb7ed373"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/tests/test_acquire_longform_sections_v3.py",
+      "bytes": 8088,
+      "sha256": "f2fe3ac49508263e6bf337fd4ffcc327f0a9f90ee3ed7401d3d163bace0c88d2"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/tests/test_acquire_longform_sections.py",
+      "bytes": 20830,
+      "sha256": "250db8d7e56ea9939c3dfdfb16ba22ecad4c3a95ee6e4fd7629886293d4841a6"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/tests/test_extract_visual_chunk.py",
+      "bytes": 22984,
+      "sha256": "941f8c9c9eeabe70fc5507b18334094e335cba5b070a0483168f5c83258aef35"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/tests/test_global_visual_lattice_v1.py",
+      "bytes": 15455,
+      "sha256": "dead2c782021578da2f15cd51200e7a315d48bbc58d4e14f498d0b64293ae2e3"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/tests/test_keyframe_segment_full_v1.py",
+      "bytes": 1899,
+      "sha256": "2e6534be30437eaed5e2681df448e47ac2fbd045a03eb2097545f539c303e2a8"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/tests/test_verify_visual_attempt.py",
+      "bytes": 3597,
+      "sha256": "f509398ea0b299bf5b66c7834b11f3de549a58e7621d4662a94b14e829b518da"
+    },
+    {
+      "name": "research/full-channel-2026-08-16/tests/test_youtube_inventory.py",
+      "bytes": 17227,
+      "sha256": "49456799352d631e2dfdb965e919d3297c9e2d8ffa0987c1367e58ca9e8d69ec"
+    },
+    {
+      "name": "run-video-mcp.cmd",
+      "bytes": 97,
+      "sha256": "8d350fb899522021caab956cb36ed2fda197b69990b171e122d7bdcdd7d9a995"
+    },
+    {
+      "name": "run-video-mcp.ps1",
+      "bytes": 496,
+      "sha256": "cdb2361b71e288eae342e1faff54e92b38924da621389f9964d9d3bba44b2007"
+    },
+    {
+      "name": "test-video-mcp.mjs",
+      "bytes": 834,
+      "sha256": "a8d156dd110a24875d1e133026f2a7e1b6dce14b9202b9dade40f37c241826f2"
+    },
+    {
+      "name": "tests/longform-entrypoint.test.mjs",
+      "bytes": 3645,
+      "sha256": "1d8de2e642c771a42037fdf51f11ba65b91dbe62952986a26b85a7b51a45e6a6"
+    },
+    {
+      "name": "tests/video-mcp-launch.test.mjs",
+      "bytes": 6048,
+      "sha256": "904415b77f4b1c41b0b127a7c42c81ece26900b2a546dcafaa4291d3b0703eb3"
+    },
+    {
+      "name": "video-mcp-launch.mjs",
+      "bytes": 1299,
+      "sha256": "83559b533058bed3fd5f53529f6a5621c13531df086a042f5b7c7f609be7b611"
+    }
+  ],
+  "checks": {
+    "pythonParse": 19,
+    "javascriptParse": 4,
+    "powershellParse": 1,
+    "packageJsonParse": 2,
+    "selectedTests": {
+      "node": 5,
+      "acquisition": 104,
+      "visual": 26,
+      "mockInventory": 9,
+      "total": 144,
+      "skipped": 0
+    },
+    "sourceUnchangedDuringTests": true,
+    "limits": "Local synthetic CPU fixtures and mocks only. Curated environment/PATH; no yt-dlp, actual media, private data, server, network collection, model, provider, install or real MCP. Not an OS network sandbox. Three inventory tests and test:mcp excluded."
+  },
+  "provenance": "Owner-attested AI-assisted code; no independent authorship/rights certification or new blanket license. Dependency metadata only; no distributions/assets or private research records.",
+  "changes": "Root package private/UNLICENSED and nonexistent main removed; historical doc private path removed/status qualified; one Node test environment/temporary-path isolation; README and Git hygiene added. Historical implementation code unchanged."
+}
